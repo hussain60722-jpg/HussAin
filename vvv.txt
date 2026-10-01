@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Selector example</title>
+	<style>
+		.highlight{
+			background-color:yellow;
+	}
+	</style>
+</head>
+<body>
+	<h1 id="main-title">welcome to javascript selectors</h1>
+	<p class="message">this is a message.</p>
+	<p class="message">this is another message</p>
+	<div class="box">BOX1 </div>
+	<div class="box">BOX2 </div>
+	<button id="changeButtton">change text & Highlight</button>
+	<script src="script.js"></script>
+</body>
+</html>
